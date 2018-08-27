@@ -1,0 +1,1 @@
+<h3>Your account is inactive until payment is received</h3>
